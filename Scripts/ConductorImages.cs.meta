@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 376581772148ea549a359efbe30cc954
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RenderingImage: {instanceID: 0}
+  - RightAnswer: {fileID: 21300000, guid: 0cc0e0d9287ba3d41aa09e1bee967ee7, type: 3}
+  - WrongAnswer: {fileID: 21300000, guid: b38e3d6e1a5080a47a02ecfa32cdd92c, type: 3}
+  - Undecided: {fileID: 21300000, guid: db307e871b3faab449969086ef455d09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
